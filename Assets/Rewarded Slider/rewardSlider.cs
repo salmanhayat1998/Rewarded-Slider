@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -16,6 +17,7 @@ public class rewardSlider : MonoBehaviour
     {
         counter = slider.minValue;
     }
+
     void Update()
     {
         if (startMoving)
