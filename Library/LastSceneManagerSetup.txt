@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Progress Reward/sample.unity
+- path: Assets/Rewarded Slider/SampleScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
