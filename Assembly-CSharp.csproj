@@ -57,6 +57,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Rewarded Slider\rewardSlider.cs" />
+    <Compile Include="Assets\Round\Scripts\Gameplay\Panels\LevelCompletionPanel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
